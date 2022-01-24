@@ -1,4 +1,4 @@
 # astresimal
 Lyrics for Astresimals set
 
-- Orange Crust
+- Orange Crust = Коркорандж
