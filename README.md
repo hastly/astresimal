@@ -1,4 +1,5 @@
-# astresimal
+# astresimal - Астрезималь
 Lyrics for Astresimals set
+Тексты песен для сборников Астрезималь
 
-- Orange Crust = Коркорандж
+1. Простор для любви
